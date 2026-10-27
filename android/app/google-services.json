@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160792728807",
+    "project_id": "examen2-practico",
+    "storage_bucket": "examen2-practico.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160792728807:android:45270cc130a9640b5cfe42",
+        "android_client_info": {
+          "package_name": "com.examen2.baggage_track_shell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsuSJ9efrI8kPfrq9VsmwYzyyfcOyEs3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
